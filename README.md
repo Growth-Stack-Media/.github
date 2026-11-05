@@ -1,57 +1,72 @@
 <div align="center">
 
-# Growth Stack Media
+<img src="https://raw.githubusercontent.com/Growth-Stack-Media/.github/main/profile/banner.svg" alt="Growth Stack Media: Market, Grow, Scale" width="100%">
 
-### Market • Grow • Scale
+<br>
 
-Digital marketing and web solutions for businesses in Malaysia and Indonesia 🇲🇾 🇮🇩
-
-[🌐 Website](https://www.thegrowthstackmedia.com) · [💼 LinkedIn](https://www.linkedin.com/company/growth-stack-media77) · [✉️ Email](mailto:info@thegrowthstackmedia.com)
+<a href="https://www.thegrowthstackmedia.com"><img src="https://img.shields.io/badge/Website-thegrowthstackmedia.com-0A2A66?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/company/growth-stack-media77"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:info@thegrowthstackmedia.com"><img src="https://img.shields.io/badge/Email-Free%20Consultation-16A34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
 ---
 
-## About Us
+<h2 align="center">Websites that sell. Marketing that gets you found.</h2>
 
-Growth Stack Media is a digital marketing and web solutions agency. We help businesses build a stronger online presence, attract customers, and grow through practical, customer-focused digital solutions.
+<p align="center">
+Growth Stack Media is a web design and digital marketing agency based in Kuala Lumpur.<br>
+We help businesses across Malaysia and Indonesia build a stronger online presence, rank on Google and win customers on social media, with one team handling all of it.
+</p>
 
-## What We Do
+<h2 align="center">What We Do</h2>
 
-| Service | What it covers |
-|---|---|
-| 🖥️ Website Design & Development | Fast, professional, mobile-friendly websites |
-| 🔍 SEO | Better search visibility and organic traffic |
-| 📱 Social Media Marketing | Content and campaigns that engage your audience |
-| 📣 Digital Marketing | Strategies built around your goals |
-| 🛒 E-commerce Solutions | Online stores that convert visitors into buyers |
-| 🎨 Branding & Graphic Design | Visual identity that stands out |
-| 📊 Management Consulting | Guidance for growing businesses |
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>Website Design</b><br>Fast, mobile-first websites that turn visitors into customers</td>
+    <td align="center" width="33%"><b>E-commerce</b><br>Online stores with local payments and couriers</td>
+    <td align="center" width="33%"><b>SEO</b><br>Rank higher for the searches your customers make</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Social Media Marketing</b><br>Content and campaigns that build an audience</td>
+    <td align="center"><b>Content Writing</b><br>Words that explain your offer and persuade</td>
+    <td align="center"><b>Google Business Profile</b><br>Show up on Google Maps and local search</td>
+  </tr>
+</table>
 
-## Our Approach
+<h2 align="center">How We Work</h2>
 
-1. **Understand** your business goals and target audience
-2. **Build** professional digital experiences
-3. **Optimize** for search with SEO
-4. **Engage** customers with focused marketing strategies
-5. **Review** performance and find new opportunities
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Discover</b><br>Learn your business, customers and goals</td>
+    <td align="center" width="25%"><b>Design</b><br>You approve layouts and copy before any code</td>
+    <td align="center" width="25%"><b>Build and launch</b><br>Mobile-first, tracked and SEO-ready</td>
+    <td align="center" width="25%"><b>Grow</b><br>Ongoing SEO and social, with monthly reports</td>
+  </tr>
+</table>
 
-## Who We Help
+<h2 align="center">Who We Help</h2>
 
-Startups, small businesses, entrepreneurs, and growing companies that want to improve their online presence and reach more customers.
+<p align="center">
+Startups, small businesses, entrepreneurs and growing companies in Malaysia and Indonesia.<br>
+Websites and content in English and Bahasa Malaysia.
+</p>
 
+<h2 align="center">Let's Work Together</h2>
 
-## Let's Work Together
+<p align="center">
+Tell us about your business and get a free website and Google ranking review.<br><br>
+<a href="https://www.thegrowthstackmedia.com/contact/"><b>Book a free consultation</b></a>
+</p>
 
-Have a project in mind? Get in touch for a free consultation.
-
-🌐 [thegrowthstackmedia.com](https://www.thegrowthstackmedia.com)
-✉️ info@thegrowthstackmedia.com
+<p align="center">
+<a href="https://www.thegrowthstackmedia.com">Website</a> ·
+<a href="https://www.linkedin.com/company/growth-stack-media77">LinkedIn</a> ·
+<a href="https://www.facebook.com/gstackmedia">Facebook</a> ·
+<a href="https://www.instagram.com/growthstackmedia77/">Instagram</a> ·
+<a href="https://www.tiktok.com/@gstackmedia">TikTok</a>
+</p>
 
 ---
 
-<div align="center">
-
-**Growth Stack Media — Market • Grow • Scale**
-
-</div>
+<p align="center"><b>Growth Stack Media</b> · Market • Grow • Scale</p>
